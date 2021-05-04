@@ -1574,7 +1574,7 @@ header {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin-left: -30px;
+    margin-left: 0px;
   }
   .b-radius {
     display: -webkit-box;
@@ -1781,7 +1781,7 @@ header {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    margin-left: -10px;
+    margin-left: 0px;
   }
   .link-radius {
     display: none;
@@ -1821,8 +1821,8 @@ header {
     color: var(--color-text);
   }
   .pad-clients {
-    padding-bottom: 94px;
-    padding-top: 94px;
+    padding-bottom: 34px;
+    padding-top: 34px;
   }
   .clients-end {
     display: -webkit-box;
@@ -2445,8 +2445,8 @@ a {
     display: flex;
     margin: 0 auto;
     width: 1200px;
-    padding-top: 94px;
-    padding-bottom: 94px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;

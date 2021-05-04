@@ -252,7 +252,7 @@ height: 374px;
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
-        margin-left: -30px;
+        margin-left: 0px;
  
     
     }
@@ -436,7 +436,7 @@ height: 260px;
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
-        margin-left: -10px;
+        margin-left: 0px;
     }
     .link-radius{
         display: none;
@@ -471,8 +471,8 @@ height: 260px;
         color: var(--color-text);
     }
     .pad-clients {
-        padding-bottom: 94px;
-    padding-top: 94px;
+        padding-bottom: 34px;
+    padding-top: 34px;
     }
     .clients-end {
         display: flex;
